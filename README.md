@@ -3,7 +3,7 @@ A To Do List App with Create, Read, Update, and Delete Functionality (CRUD) and 
 
 
 
-![](todo_list/base/static/assets/6.PNG)
+![](/static/assets/6.PNG)
 
 
 ## Web app Features 🌎
@@ -22,9 +22,9 @@ A To Do List App with Create, Read, Update, and Delete Functionality (CRUD) and 
 </ul>
 
 ## Web app snippets 📷
-![](todo_list/base/static/assets/1.PNG)
-![](todo_list/base/static/assets/2.PNG)
-![](todo_list/base/static/assets/3.PNG)
-![](todo_list/base/static/assets/4.PNG)
-![](todo_list/base/static/assets/5.PNG)
+![](/static/assets/1.PNG)
+![](/static/assets/2.PNG)
+![](/static/assets/3.PNG)
+![](/static/assets/4.PNG)
+![](/static/assets/5.PNG)
 
